@@ -22,9 +22,6 @@ Terminating unused instances is an important cloud hygiene practice. It helps re
 
 1. Confirm the instance name and region.
 2. Ensure it is the correct instance before proceeding.
-If the Name column is not visible:
-- Click the settings icon 
-- Enable the **Name** column.
 
 ## Step 4: Terminate the Instance
 
