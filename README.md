@@ -26,13 +26,13 @@ If the Name column is not visible:
 - Click the settings icon 
 - Enable the **Name** column.
 
-![Step 3](images/step3-instance.png)
-
 ## Step 4: Terminate the Instance
 
 1. Click **Instance state**.
 2. Select **Terminate instance**.
 3. Confirm termination.
+   
+![Step 3](images/step3-instance.png)
 
 ![Step 4](images/step4-terminate-instance.png)
 
