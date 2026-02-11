@@ -8,7 +8,7 @@ Terminating unused instances is an important cloud hygiene practice. It helps re
 1. Go to https://console.aws.amazon.com  
 2. Sign in with your credentials.
    
-![Step 1](images/step1.png)
+![Step 1](images/step1-aws-console-login.png)
 
 ## Step 2: Navigate to EC2
 
